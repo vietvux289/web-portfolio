@@ -4,7 +4,7 @@ Welcome to my web portfolio! This project showcases a collection of my works and
 
 ## Deployment
 
-My portfolio will now be accessible at: `https://vietvux289.github.io/web-portfolio/`
+My portfolio will now be accessible at: [https://vietvux289.github.io/web-portfolio/](https://vietvux289.github.io/web-portfolio/)
 
 ## Features
 
