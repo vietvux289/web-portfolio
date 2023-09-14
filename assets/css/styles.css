@@ -193,7 +193,7 @@ hr {
   position: absolute;
   right: 1rem;
   bottom: 4rem;
-  max-width: 80%;
+  max-width: 60%;
 }
 
 /*BUTTONS*/
@@ -448,7 +448,7 @@ hr {
   }
   .home__img {
     width: 28.6rem;
-    bottom: 15%;
+    bottom: 16%;
   }
 
   .about__container,
