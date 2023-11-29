@@ -31,5 +31,3 @@ Feel free to connect with any inquiries, suggestions, or opportunities. Thank yo
 [Portfolio Website](https://vietvux289.github.io/web-portfolio/)
 
 [GitHub](https://github.com/vietvux289)
-
-test sdfaofsd
